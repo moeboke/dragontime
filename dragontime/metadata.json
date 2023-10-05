@@ -1,0 +1,14 @@
+{
+  "name": "dragontime",
+  "version": "0.1",
+  "display_name": "龙time",
+  "authors": [
+    "SAGIRI-kawaii"
+  ],
+  "description": "可以龙的插件",
+  "usage": ["在群中发送 `龙time` 即可"],
+  "example": ["龙time"],
+  "icon": "",
+  "prefix": ["/", ""],
+  "triggers": ["龙time", "dragontime"]
+}
